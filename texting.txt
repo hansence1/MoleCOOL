@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 I added this file from a new clone!
 Now I have added a new line!
+
+******************************************************************
+This is the start of testing (which I accidentally named texting)
+******************************************************************
+
+I added this file from a new clone!
+
+******************************************************************
+This is the end of testing (which I accidentally named texting)
+******************************************************************
+
