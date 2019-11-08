@@ -34,3 +34,12 @@ def calculate_molecular_mass(symbols):
    
    return mass
 
+
+# def center_of_mass(symbols):
+#     total_mass = calculate_molecular_mass(symbols)
+
+#     mass_array = np.zeroes([len(symbols),1])
+
+#     for i in range(len(symbols)):
+
+#         return
